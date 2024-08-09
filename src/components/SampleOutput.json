@@ -1,0 +1,269 @@
+{
+"status": "ok",
+"totalResults": 37,
+"articles": [
+{
+"source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "TY O'NEIL, CHRISTOPHER WEBER",
+        "title": "Searing heat wave grips large parts of the US and causes deaths in the West - The Associated Press",
+        "description": "A long-running heat wave is gripping the U.S. after causing deaths and shattering records in the West over the weekend. Hot temperatures are predicted again Monday in the West as well as in parts of the East Coast and the South. A visitor to Death Valley Nati…",
+        "url": "https://apnews.com/article/heat-wave-dangerous-high-temperatures-records-3a906d7045cf7eb04604aefec70cda16",
+        "urlToImage": "https://dims.apnews.com/dims4/default/560adf6/2147483647/strip/true/crop/5185x2917+0+270/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2a%2Fa5%2F8ca66180cc939ed3c0947c4805f5%2Fda873e4b5c4e42ca8a105753395ca663",
+        "publishedAt": "2024-07-08T12:12:00Z",
+        "content": "DEATH VALLEY, Calif. (AP) After causing deaths and shattering records in the West over the weekend, a long-running heat wave will again grip the U.S. on Monday, with hot temperatures also predicted f… [+4495 chars]"
+    },
+{
+"source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Matthew Cappucci, Kelly Kasulis Cho, Rachel Pannett, Jennifer Hassan, Brady Dennis, Scott Dance, Ben Brasch, Praveena Somasundaram, Alexandra Ma, Nick Parker, Joyce Lau, Joshua Carroll",
+        "title": "Live updates: Hurricane Beryl makes landfall on Texas coast as Category 1 storm - The Washington Post",
+        "description": "The storm, which made landfall near Matagorda, is expected to produce dangerous storm surges, floods and heavy winds in parts of Texas. Follow our live updates.",
+        "url": "https://www.washingtonpost.com/weather/2024/07/08/hurricane-beryl-texas-landfall-updates/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7TWEHZJJIYAFJQYJGLMMIEUTMM.JPG&w=1440",
+        "publishedAt": "2024-07-08T12:01:49Z",
+        "content": "MATAGORDA, Tex. Hurricane Beryl is approaching western parts of Houston after making landfall near Matagorda around 4 a.m. Monday, the National Hurricane Center said. Beryl strengthened from a tropic… [+183 chars]"
+    },
+{
+"source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "At least 31 dead after 'massive' Russian missile attack on Ukraine cities - BBC.com",
+        "description": "Two people were killed at the Okhmatdyt Children's Hospital after an intense Russian barrage, officials say.",
+        "url": "https://www.bbc.com/news/articles/cl4y1pjk2dzo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f6ca/live/ee6d00a0-3d25-11ef-9e1c-3b4a473456a6.jpg",
+        "publishedAt": "2024-07-08T11:47:04Z",
+        "content": "By Rob Corp &amp; Kyla Herrmannsen, BBC News, in London &amp; Kyiv\r\nVideo posted by President Zelensky shows extensive damage to Ohmatdyt Children's Hospital\r\nA children's hospital has been seriously… [+4250 chars]"
+    },
+{
+"source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": null,
+        "title": "Gaza war: Israel hits Gaza City as tanks re-enter central areas - BBC.com",
+        "description": "Residents say they are seeing some of the heaviest strikes since the war began nine months ago.",
+        "url": "https://www.bbc.com/news/articles/c51yle4m5pzo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8f06/live/ae162770-3d20-11ef-90ff-7b1636c56d0e.jpg",
+        "publishedAt": "2024-07-08T11:37:57Z",
+        "content": "Palestinians in Gaza City say they have experienced one of the most intense Israeli bombardments since Israel launched its war on Hamas after the group's unprecedented 7 October attack.\r\nColumns of I… [+2864 chars]"
+    },
+{
+"source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": "Yahoo Finance",
+        "title": "The US housing slump deepened this spring. Where does that leave home shoppers and sellers? - Yahoo Finance",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy91cy1ob3VzaW5nLXNsdW1wLWRlZXBlbmVkLXNwcmluZy0xMTMxMjc3NzAuaHRtbNIBAA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-07-08T11:31:27Z",
+        "content": null
+    },
+{
+"source": {
+            "id": "reuters",
+            "name": "Reuters"
+        },
+        "author": "Reuters",
+        "title": "France's RN set to join new Orban-backed European bloc - Reuters",
+        "description": null,
+        "url": "https://www.reuters.com/world/europe/new-orban-backed-eu-alliance-says-frances-rn-join-2024-07-08/",
+        "urlToImage": null,
+        "publishedAt": "2024-07-08T11:29:00Z",
+        "content": null
+    },
+{
+"source": {
+            "id": null,
+            "name": "[Removed]"
+        },
+        "author": null,
+        "title": "[Removed]",
+        "description": "[Removed]",
+        "url": "https://removed.com",
+        "urlToImage": null,
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "content": "[Removed]"
+    },
+{
+"source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": null,
+        "title": "Spanish anti-tourism protesters take aim at Barcelona visitors with water guns - CBS News",
+        "description": "Residents fed up with the impact of mass tourism in Barcelona have staged a mass demonstration, harassing visitors in the Spanish city.",
+        "url": "https://www.cbsnews.com/news/spain-barcelona-tourism-protests-water-guns/",
+        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/07/08/4f914a68-3325-49d0-ba33-9b22e0af595e/thumbnail/1200x630/cb4be552570df1ace78800c9c4953bef/gettyimages-2160375973.jpg?v=57e8061b2038d609da26e467de5ddfb8",
+        "publishedAt": "2024-07-08T11:17:01Z",
+        "content": "Thousands of protesters marched through Barcelona over the weekend to express anger at mass tourism and its impacts on Spain's most visited city. Bystanders dining in restaurants in the popular La Ba… [+2843 chars]"
+    },
+{
+"source": {
+            "id": null,
+            "name": "Racingnews365.com"
+        },
+        "author": null,
+        "title": "Hamilton sets multiple new F1 records in British GP blitz - Racingnews365.com",
+        "description": "Lewis Hamilton set a host of new F1 records during the British Grand Prix.",
+        "url": "https://racingnews365.com/hamilton-sets-multiple-new-world-records-in-british-gp-blitz",
+        "urlToImage": "https://cdn.racingnews365.com/2024/Hamilton/_1800x945_crop_center-center_75_none/XPB_1293779_HiRes.jpg?v=1720385169",
+        "publishedAt": "2024-07-08T11:00:00Z",
+        "content": "In securing victory at the British Grand Prix to end a long victory drought stretching to 945 days since December 5th, 2021, Lewis Hamilton set a number of new F1 records.\r\nFor a driver who already s… [+704 chars]"
+    },
+{
+"source": {
+            "id": "business-insider",
+            "name": "Business Insider"
+        },
+        "author": "Kim Schewitz",
+        "title": "Scientists lost weight without trying quitting ultra-processed foods - Business Insider",
+        "description": "Professor Barry Smith worked with big names in the food industry but stopped when he realized foods were made to be irresistible, despite health risks.",
+        "url": "https://www.businessinsider.com/scientist-lost-weight-without-trying-quit-ultra-processed-foods-2024-7",
+        "urlToImage": "https://i.insider.com/668808311aace5b3ada4a7e5?width=1200&format=jpeg",
+        "publishedAt": "2024-07-08T10:52:00Z",
+        "content": null
+    },
+{
+"source": {
+            "id": null,
+            "name": "MarketWatch"
+        },
+        "author": "MarketWatch",
+        "title": "Why bulls should be stoic in the face of legitimate stock-market worries - MarketWatch",
+        "description": null,
+        "url": "https://www.marketwatch.com/story/three-reasons-bulls-should-be-stoic-in-the-face-of-legitimate-stock-market-worries-5afff5ba",
+        "urlToImage": null,
+        "publishedAt": "2024-07-08T10:32:00Z",
+        "content": null
+    },
+{
+"source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Sandee LaMotte",
+        "title": "The most devastating sleep disorder of all, according to an expert - CNN",
+        "description": "Ashamed and bewildered by her actions, one woman with an unusual sleep disorder faced challenges when trying to find medical help. Here’s her story.",
+        "url": "https://www.cnn.com/2024/07/08/health/sleep-eating-disorder-wellness/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/sleep-eating-illo-a-purple.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-07-08T10:20:00Z",
+        "content": "Sign up for CNNs Sleep, But Better newsletter series. Our seven-part guide has helpful hints to achieve better sleep.\r\nJill was in middle school when she began eating in her sleep. Despite carrying t… [+9950 chars]"
+    },
+{
+"source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Rong-Gong Lin II",
+        "title": "'Playing COVID roulette': Some infected by FLiRT variants report their most unpleasant symptoms yet - Yahoo! Voices",
+        "description": "COVID cases and hospitalizations rise in L.A. County — and some of those recently reinfected with the FLiRT variants are finding the latest bout the worst...",
+        "url": "https://www.yahoo.com/news/playing-covid-roulette-infected-flirt-100026293.html",
+        "urlToImage": "https://media.zenfs.com/en/la_times_articles_853/c7b66ce26858a40548455a94d4c59348",
+        "publishedAt": "2024-07-08T10:00:26Z",
+        "content": "As the summer travel season picks up, COVID cases and hospitalizations are rising in Los Angeles County and some of those recently reinfected are finding their latest bout to be the worst yet.\r\nThere… [+9890 chars]"
+    },
+{
+"source": {
+            "id": null,
+            "name": "9to5google.com"
+        },
+        "author": "Ben Schoon",
+        "title": "Nothing launches $69 CMF Watch Pro 2 and $59 CMF Buds Pro 2 - 9to5Google",
+        "description": "Alongside its $199 CMF Phone 1, Nothing today launched two new wearables – the $69 CMF Watch Pro 2 and...",
+        "url": "http://9to5google.com/2024/07/08/nothing-launches-69-cmf-watch-pro-2-and-59-cmf-buds-pro-2/",
+        "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/07/cmf-watch-2-pro-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2024-07-08T09:05:00Z",
+        "content": "Alongside its $199 CMF Phone 1, Nothing today launched two new wearables the $69 CMF Watch Pro 2 and the $59 CMF Buds Pro 2.\r\nCMF by Nothing is a design and budget-focused sub-brand of the Carl Pei-l… [+1984 chars]"
+    },
+{
+"source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Steve Contorno, Kristen Holmes",
+        "title": "Trump’s VP rollout and convention planning complicated by Biden woes as former president looks to regain spotlight - CNN",
+        "description": "Donald Trump is entering a critical stretch of his presidential campaign in an unfamiliar place: out of the spotlight.",
+        "url": "https://www.cnn.com/2024/07/08/politics/donald-trump-vp-convention-planning/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2159107468.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-07-08T09:00:00Z",
+        "content": "Donald Trump is entering a critical stretch of his presidential campaign in an unfamiliar place: out of the spotlight.\r\nOver the next 10 days, the former president will announce his running mate, hol… [+8871 chars]"
+    },
+{
+"source": {
+            "id": null,
+            "name": "Hindustan Times"
+        },
+        "author": "Bhavika Rathore",
+        "title": "Despicable Me 4 sets US box office on fire, rakes in millions within 5 days of its release - Hindustan Times",
+        "description": "Despicable Me 4 crossed the $120 million mark at the US box office after the commercial success of Inside Out 2. | Hollywood",
+        "url": "https://www.hindustantimes.com/entertainment/hollywood/despicable-me-4-sets-us-box-office-on-fire-rakes-in-millions-within-5-days-of-its-release-101720427571906.html",
+        "urlToImage": "https://images.hindustantimes.com/img/2024/07/08/1600x900/despicable-me-4_1706628926850_1720427694334.jpg",
+        "publishedAt": "2024-07-08T08:55:49Z",
+        "content": "After a visible dull first half of the year for the theatres and film industry, things have started to look bright again. Despicable Me 4 was released on the evening before the Fourth of July. The fi… [+2478 chars]"
+    },
+{
+"source": {
+            "id": "axios",
+            "name": "Axios"
+        },
+        "author": "Axios",
+        "title": "Biden's team faces a tough, pivotal week in D.C. - Axios",
+        "description": null,
+        "url": "https://www.axios.com/2024/07/08/biden-braces-tough-week-dc-campaign-2024",
+        "urlToImage": null,
+        "publishedAt": "2024-07-08T08:31:08Z",
+        "content": null
+    },
+{
+"source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "JON GAMBRELL",
+        "title": "Gaza destruction likely helped push Hamas to soften cease-fire demands, several officials say - The Associated Press",
+        "description": "Several officials in the Middle East and the U.S. believe the level of devastation in the Gaza Strip caused by a nine-month Israeli offensive likely has helped push Hamas to soften its demands for a cease-fire agreement. Hamas over the weekend appeared to dro…",
+        "url": "https://apnews.com/article/israel-hamas-ceasefire-deal-gaza-war-a8b9cc1aeebf6471cd8ef9e7198cddf3",
+        "urlToImage": "https://dims.apnews.com/dims4/default/6a0e028/2147483647/strip/true/crop/6720x3780+0+350/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F01%2F4b%2F1259633a4f80e3f0b1910614de45%2Fee39fbf0afc04a7a9a9776f27b6038d6",
+        "publishedAt": "2024-07-08T07:32:00Z",
+        "content": "DUBAI, United Arab Emirates (AP) Several officials in the Middle East and the U.S. believe the level of devastation in the Gaza Strip caused by a nine-month Israeli offensive likely has helped push H… [+6622 chars]"
+    },
+{
+"source": {
+            "id": null,
+            "name": "Fox Business"
+        },
+        "author": "Landon Mion",
+        "title": "Boeing agrees to plea deal to avoid criminal trial over deadly 737 Max crashes - Fox Business",
+        "description": "Boeing has agreed to plead guilty to a criminal fraud conspiracy charge in order to avoid a criminal trial related to two deadly crashes involving 737 MAX jetliners.",
+        "url": "https://www.foxbusiness.com/fox-news-crime/boeing-agrees-plea-deal-avoid-criminal-trial-deadly-737-max-crashes",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/06/0/0/Boeing-Renton.jpg?ve=1&tl=1",
+        "publishedAt": "2024-07-08T07:11:00Z",
+        "content": "Boeing has agreed to plead guilty to a criminal fraud conspiracy charge to avoid a criminal trial in connection with a Justice Department investigation into two deadly crashes involving 737 MAX jetli… [+4464 chars]"
+    },
+{
+"source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "TOI Entertainment Desk",
+        "title": "Brad Pitt and Ines de Ramon go public with romance at British Grand Prix after 'F1' tailer launch - Pics - TOI Etimes",
+        "description": "Brad Pitt and his girlfriend Ines de Ramon make their first public appearance at the British Grand Prix after the release of the 'F1' trailer. Learn more about their relationship and the upcoming movie.",
+        "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/brad-pitt-and-ines-de-ramon-go-public-with-romance-at-british-grand-prix-after-f1-trailer-launch/articleshow/111570409.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-111571590,width-1070,height-580,imgsize-36710,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2024-07-08T07:11:00Z",
+        "content": null
+
+    }    
+
+]
+}
+
